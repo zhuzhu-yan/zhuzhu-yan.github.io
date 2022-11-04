@@ -1,0 +1,15 @@
+User-agent: *
+
+Allow: /
+Allow: /tags/
+Allow: /archives/
+
+Disallow: /vendors/
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /vendors/
+Disallow: /fancybox/
+
+Sitemap: https://zhuzhu-yan.github.io/sitemap.xml
+Sitemap: https://zhuzhu-yan.github.io/baidusitemap.xml
