@@ -3,7 +3,7 @@
   <entry>
     <title>第一篇博客</title>
     <url>/posts/320837a1bf79/</url>
-    <content><![CDATA[<p>这是一张图</p>
+    <content><![CDATA[<p>我现在总结一下这个博客建立的过程，现在是正文部分，第一自然段。我写完这段文字之后，还要操作很多步骤才能发布到我的博客上面。发布的步骤是这样的：<br>现在在Vs Code,在这里编辑，编辑完成之后，<br>1保存（ctrl+s);<br>2暂存：在终端（命令行）进行暂存:git add .此时也可查看仓库的状态：git status<br>3提交：git commit -m 编辑博客<br>4推送：git push<br>这是一张图</p>
 <img src="/posts/320837a1bf79/2022-11-05-13-46-30.png" class="">
 
 <p>今天是个坏宝宝</p>
