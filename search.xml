@@ -3,8 +3,22 @@
   <entry>
     <title>第一篇博客</title>
     <url>/posts/320837a1bf79/</url>
-    <content><![CDATA[<p>我现在总结一下这个博客建立的过程，现在是正文部分，第一自然段。我写完这段文字之后，还要操作很多步骤才能发布到我的博客上面。发布的步骤是这样的：<br>现在在Vs Code,在这里编辑，编辑完成之后，<br>1保存（ctrl+s);<br>2暂存：在终端（命令行）进行暂存:git add .此时也可查看仓库的状态：git status<br>3提交：git commit -m 编辑博客<br>4推送：git push<br>这是一张图</p>
-<img src="/posts/320837a1bf79/2022-11-05-13-46-30.png" class="">
+    <content><![CDATA[<h2 id="一、博客编辑笔记"><a href="#一、博客编辑笔记" class="headerlink" title="一、博客编辑笔记"></a>一、博客编辑笔记</h2><p>我现在总结一下这个博客建立的过程，现在是正文部分，第一自然段。我写完这段文字之后，还要操作很多步骤才能发布到我的博客上面。发布的步骤是这样的：<br>现在在Vs Code,在这里编辑，编辑完成之后，</p>
+<ol>
+<li>保存（ctrl+s);</li>
+<li>暂存：在终端（命令行）进行暂存:<code>git add .</code>此时也可查看仓库的状态：<code>git status</code></li>
+<li>提交：<code>git commit -m 编辑博客</code></li>
+<li>推送：<code>git push</code></li>
+</ol>
+<h2 id="二、博客发布笔记"><a href="#二、博客发布笔记" class="headerlink" title="二、博客发布笔记"></a>二、博客发布笔记</h2><ol>
+<li>构建：执行build命令</li>
+<li>发布: 执行deploy命令</li>
+</ol>
+<h2 id="三、博客中如何插入图片"><a href="#三、博客中如何插入图片" class="headerlink" title="三、博客中如何插入图片"></a>三、博客中如何插入图片</h2><img src="/posts/320837a1bf79/1425538.jpeg" class="">
+
+<p>截图，然后用ctrl+alt+v粘贴</p>
+<p>这是一张图</p>
+<img src="/posts/320837a1bf79/2022-11-05-15-34-32.png" class="">
 
 <p>今天是个坏宝宝</p>
 <p>参考文章</p>
