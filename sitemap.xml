@@ -2,9 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://zhuzhu-yan.github.io/posts/0dd34852376b/</loc>
+    
+    <lastmod>2023-01-31</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://zhuzhu-yan.github.io/posts/8944b54ac783/</loc>
+    
+    <lastmod>2023-01-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://zhuzhu-yan.github.io/posts/7fdcea44e634/</loc>
+    
+    <lastmod>2023-01-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://zhuzhu-yan.github.io/posts/320837a1bf79/</loc>
     
-    <lastmod>2022-11-05</lastmod>
+    <lastmod>2023-01-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://zhuzhu-yan.github.io/posts/fe79c1912ef8/</loc>
+    
+    <lastmod>2023-01-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://zhuzhu-yan.github.io/posts/6ec840cf4dbc/</loc>
+    
+    <lastmod>2022-11-29</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -31,29 +76,36 @@
 
   <url>
     <loc>https://zhuzhu-yan.github.io/</loc>
-    <lastmod>2022-11-05</lastmod>
+    <lastmod>2023-01-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://zhuzhu-yan.github.io/tags/%E6%97%85%E8%A1%8C/</loc>
-    <lastmod>2022-11-05</lastmod>
+    <loc>https://zhuzhu-yan.github.io/tags/tag1/</loc>
+    <lastmod>2023-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://zhuzhu-yan.github.io/tags/%E6%84%9F%E6%82%9F/</loc>
-    <lastmod>2022-11-05</lastmod>
+    <loc>https://zhuzhu-yan.github.io/tags/tag2/</loc>
+    <lastmod>2023-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://zhuzhu-yan.github.io/tags/%E5%9B%9E%E5%AE%B6/</loc>
-    <lastmod>2022-11-05</lastmod>
+    <loc>https://zhuzhu-yan.github.io/tags/%E6%91%98%E6%8A%84/</loc>
+    <lastmod>2023-01-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://zhuzhu-yan.github.io/tags/%E5%BF%83%E5%BE%97/</loc>
+    <lastmod>2023-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
